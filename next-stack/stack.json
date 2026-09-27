@@ -1,0 +1,31 @@
+{
+  "id": "next-stack",
+  "name": "Next Stack",
+  "version": "1.0.0",
+  "description": "A general-purpose full-stack Next.js starter with TypeScript, Tailwind CSS, PostgreSQL, Drizzle ORM, and Docker.",
+  "category": "web",
+  "tags": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwind",
+    "postgresql",
+    "drizzle",
+    "docker",
+    "full-stack"
+  ],
+  "technologies": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "PostgreSQL",
+    "Drizzle ORM",
+    "Docker"
+  ],
+  "requirements": {
+    "node": ">=20.9.0",
+    "docker": "required for the local PostgreSQL service"
+  },
+  "template": "template"
+}
